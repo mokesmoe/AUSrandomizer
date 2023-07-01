@@ -1,0 +1,24 @@
+ 1 jump
+ 2 jump
+ 3 jump
+ 4 red energy
+ 5 pot crystals
+ 6 djump
+ 7 djump
+ 8 djump
+ 9 duck
+10 stick
+11 stickmove
+12 teleport
+13 smash
+14 shoot
+15 range
+16 yellow energy
+17 hatch
+18 breath
+19 breath
+20 magnet
+21 charge/ice
+22 tough
+23 tough
+24 tough

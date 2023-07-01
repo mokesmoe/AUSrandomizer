@@ -1,0 +1,5 @@
+put the randomizer exe in the same folder as the vanilla exe
+
+get the base game at https://www.mattmakesgames.com/
+
+or directly download from http://mattmakesgames.com/games/AnUntitledStory.zip

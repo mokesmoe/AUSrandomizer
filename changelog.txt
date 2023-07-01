@@ -1,0 +1,39 @@
+Pending
+-fixed curtain flower logic
+
+1.7
+-fixed money item not counting as an item (caused some rooms to continuously spawn money)
+-added a bunch of missing fonts
+-fixed cloudrun boss crystal amount
+-the crystal ball works now. It will prioritise non-heart items over hearts.
+
+1.6
+-hatch cutscene now pauses game (should fix hatch crashes)
+-floretta's room shows the 10/20 flower rewards
+-fixed shop prices not loading correctly
+-added boss money drops to the item pool
+-shop logic now requires various amounts of boss money (100,500,1000)
+-name your savefile "fools23" to enable april fools mode (with item rando still on)
+
+1.5
+-Fixed bonus game
+-Randomised shop prices
+
+1.4
+-Added option for shuffling gold orbs!
+-made beach cutscene optional
+-rigged the bonus game
+-fixed hatch location logic
+-fixed a gold orb spawning a portal
+
+1.3
+-fixed skysand save statue
+-added spoiler logs
+
+1.2
+-fixed farfall jump requirements
+-shop items above 100 require pot crystals (not ideal but it's something)
+
+1.1
+-fixes bonus game
+
