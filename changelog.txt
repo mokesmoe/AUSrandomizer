@@ -1,5 +1,17 @@
 Pending
+-fixed stonecastle logic
+-fixed some issues with seeds
+-added missing crystal ball text for new locations
+
+1.9
+-setting for random gold orbs requirement
+-floretta and rainbowcatch money rewards added to item pool
+
+1.8
 -fixed curtain flower logic
+-fixed highlands platform logic
+-made rainbowdive theoretically possible in screen rando
+-added an external settings file! (in-game gold orb option and fools23 name removed)
 
 1.7
 -fixed money item not counting as an item (caused some rooms to continuously spawn money)
